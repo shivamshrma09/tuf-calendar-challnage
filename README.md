@@ -7,8 +7,7 @@ A premium interactive wall calendar built with Next.js, inspired by a physical w
 > https://tuf-calendar-internship-challnage.vercel.app/
 
 ## Preview
-
-> 
+> https://youtu.be/p17DKV8BJ00
 
 ---
 
